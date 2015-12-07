@@ -9,7 +9,8 @@
     ],
     "minimum-stability":"dev",
     "require":{
-        "samsonos/js_core":"*"
+        "samsonos/js_core":"*",
+        "samsonos/cms_input":"*"
     },
     "license":"Open Software License (OSL) v 3.0",
     "homepage":"http://samsonos.com/",
